@@ -1,0 +1,66 @@
+{
+  "name": "Tasnimul H. Tauhid",
+  "options": [
+    {
+      "label": "about",
+      "about": "To know about me",
+      "value": "Hey there! I'm Kledi, a high school student with a passion for both gaming and programming. When I'm not hitting the books, you can usually find me immersed in the latest video game or exploring new programming concepts. I love the challenge of solving problems and building things from scratch. Whether it's creating a new website or leveling up my skills in my favorite game, I'm always eager to learn and grow."
+    },
+    {
+      "label": "skills",
+      "about": "To know about my skills",
+      "value": "I'm familiar with HTML, CSS, JavaScript, React, Tailwind, and Vite. Let's build something cool together!"
+    },
+    {
+      "label": "experience",
+      "about": "To know about my experience",
+      "value": "",
+      "data": [
+        {
+          "label": "Self-taught in HTML, CSS, JavaScript, React, Tailwind, and Vite through personal projects and online resources.",
+          "value": "Developed various web applications and websites; acquired proficiency in frontend technologies by actively engaging with tutorials, documentation, and hands-on practice."
+        },
+        {
+          "label": "Actively participated in coding challenges and online programming communities to further develop my abilities.",
+          "value": "Regularly competed in coding competitions such as Codeforces and LeetCode, collaborated with peers on GitHub projects, and sought feedback from online communities like Stack Overflow."
+        },
+        {
+          "label": "Constantly seeking new opportunities to learn and grow in the field of web development.",
+          "value": "Enthusiastically exploring new frameworks, libraries, and design patterns; continuously expanding knowledge through online courses, workshops, and industry articles."
+        }
+      ]
+    },
+    {
+      "label": "projects",
+      "about": "To know about my projects",
+      "value": "I've had the pleasure of working on diverse projects that showcase my skills and creativity.",
+      "data": [
+        {
+          "label": "Blog Website",
+          "value": "This is a simple blog website where I share my thoughts and experiences."
+        },
+        {
+          "label": "Movies Website",
+          "value": "This web application allows you to explore a collection of movies."
+        },
+        {
+          "label": "Age Calculator",
+          "value": "This simple web application allows you to calculate your age based on your birthdate."
+        },
+        {
+          "label": "Crack the Code Game",
+          "value": "A player has to guess the 3 numbers in order to win this game by using 5 simple hints. This is going to be a very interesting game. This game is built using simple mathematics in JavaScript."
+        },
+        {
+          "label": "Portfolio",
+          "value": "My portfolio website using HTML, CSS and JavaScript."
+        }
+      ]
+    },
+    {
+      "label": "contact",
+      "about": "To get my contact details",
+      "value": "Feel free to reach out! You can contact me for any inquiries or collaborations. <br/> Email:  kledidervishi5@gmail.com  <br/> GitHub:  kledidervishi  <br/>"
+    }
+  ]
+}

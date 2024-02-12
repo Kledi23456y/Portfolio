@@ -1,0 +1,38 @@
+{
+    "name": "kledi Dervishi - Portfolio",
+    "short_name": "kledi Dervishi - Portfolio",
+    "id": "portfolio.index.html",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/home/samuel/Downloads/terminal-portfolio-main/1.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+          },
+          {
+            "src": "/home/samuel/Downloads/terminal-portfolio-main/1.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+          },
+          {
+            "src": "/home/samuel/Downloads/terminal-portfolio-main/1.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+          },
+          {
+            "src": "/home/samuel/Downloads/terminal-portfolio-main/1.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+          }
+    ],
+    "theme_color": "#317EFB",
+    "background_color": "#300a24",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "prefer_related_applications":true
+}
